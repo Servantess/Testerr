@@ -1,2 +1,2 @@
 Hello guys
-This tutorial...
+This tutorial about git
