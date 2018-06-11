@@ -1,8 +1,1 @@
-Hello guys
-<<<<<<< Updated upstream
-This tutorial about git
-Wonderful things
-=======
-I gonna type,
- i got it
->>>>>>> Stashed changes
+Again just Hello ... ))
