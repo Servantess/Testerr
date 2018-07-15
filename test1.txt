@@ -1,8 +1,5 @@
 test1
 test1 test1 test1
-<<<<<<< Updated upstream
-Too much TEST22
-=======
 Butch
 I goona tips and anyway
->>>>>>> Stashed changes
+
