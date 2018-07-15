@@ -1,6 +1,6 @@
 Hello guys
 This tutorial delete dot dot dot
 
-public void Notmain() {
+public void Notman() {
     //Implementation
 }
